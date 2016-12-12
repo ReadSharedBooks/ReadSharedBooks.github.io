@@ -1,5 +1,6 @@
 ## About this Project
 
+
 The goal of this project is simple. It's to promote the sharing of books. Think of it as a decentralized library, where you can both lend and borrow books from other folks in the community. It's like those little tiny libraries that you pass by in people's yards, except this one has many, many more books.
 
 For now, given my very limited knowledge of websites, the way this works will be as follows:
@@ -30,6 +31,7 @@ Scott
 
 ### The Library ###
 [Book list 12-12-2016](Books\Book list (google sheet version)12-12-16.pdf)
+
 
 Some specs through time:
 
