@@ -22,7 +22,7 @@ I'll try to break books up into some categories, but don't expect too much other
 
 Please share this with anyone (in Cache Valley) you think would be interested. I'll keep a running tally of the total books available, and the number of users as well.
 
-For now, please direct all questions and comments to readsharedbooks@gmail.com.
+For now, please direct all questions and comments to <readsharedbooks@gmail.com>
 
 
 Cheers!
