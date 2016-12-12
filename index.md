@@ -1,4 +1,4 @@
-## About this Project 
+## About this Project
 
 The goal of this project is simple. It's to promote the sharing of books. Think of it as a decentralized library, where you can both lend and borrow books from other folks in the community. It's like those little tiny libraries that you pass by in people's yards, except this one has many, many more books.
 
@@ -14,7 +14,7 @@ For now, please direct all questions to readsharedbooks@gmail.com.
 
 For those wishing to add books to the list, please send them in a spreadsheet, either as a google sheet or excel spreadsheet, and I'll enter them into the master list and update the webpage and master excel spreadsheet that is download-able on this site.
 
-I will also make sure to list the last update on the spreadsheet o help avoid confusion.
+I will also make sure to list the last update on the spreadsheet to help avoid confusion.
 
 Cheers!
 
