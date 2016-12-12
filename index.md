@@ -30,3 +30,11 @@ Scott
 
 ### The Library ###
 [Book list 12-12-2016](Books\Book list (google sheet version)12-12-16.pdf)
+
+Some specs through time:
+
+**Date** 12/12/2016
+
+Total number of books: 245
+
+Number of contributors: 2
