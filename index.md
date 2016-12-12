@@ -2,20 +2,31 @@
 
 The goal of this project is simple. It's to promote the sharing of books. Think of it as a decentralized library, where you can both lend and borrow books from other folks in the community. It's like those little tiny libraries that you pass by in people's yards, except this one has many, many more books.
 
-There is no fee to use or join, just simple user agreement that will give you a username (your choice of course) so that it's easier to track books and to make sure books are returned happy and healthy to their original homes.
+For now, given my very limited knowledge of websites, the way this works will be as follows:
 
-There is currently no funding for this project, though in the near-ish future I hope to put together some crowd-sourcing proposal to pull together a few bucks to pay someone to put together a proper database.
+If you want to be involved check out the list of available books [here](Books\Book list (google sheet version)12-12-16.pdf) as a PDF. It lists all the books you can borrow from folks who have generously offered up their books for you to borrow, and it lists a way to get in touch with them. From there, it's up to you to get in touch, and figure out how to pick up the book and what sort of return agreement you'll have. Once you do that, send an e-mail to readsharedbooks@gmail.com and I'll update the list to reflect that the book is effectively checked-out and I'll post the expected return date, and the borrower. Once the book is returned happy and healthy I'll delete that record. Forever.
 
-For now, I will regularly update the master spreadsheet (weekly I hope) and you'll just have to use the "Control 'f'" command to search for the title or author you're looking for.
+If you ever want to add more books to the list, send the list as a spreadsheet (both google sheets or excel work best) and I'll update the list.
 
-Please point other people to this site and tell them to contribute.
+I'll do my best to update as often as I can, and each time the list is updated, I'll post the date so you can know if the changes you're expecting are reflected in the latest list.
 
-For now, please direct all questions to readsharedbooks@gmail.com.
+Until I figure out a better system, or can pay someone to do it properly, the way to find books will simply be to download the PDF and use the Control 'f' command to search the document for whatever it is you want.
 
-For those wishing to add books to the list, please send them in a spreadsheet, either as a google sheet or excel spreadsheet, and I'll enter them into the master list and update the webpage and master excel spreadsheet that is download-able on this site.
+I'll try to break books up into some categories, but don't expect too much other than:
 
-I will also make sure to list the last update on the spreadsheet to help avoid confusion.
+-Fiction
+-Non-fiction
+-Reference (textbooks, for example)
+-Cooking
+
+Please share this with anyone (in Cache Valley) you think would be interested. I'll keep a running tally of the total books available, and the number of users as well.
+
+For now, please direct all questions and comments to readsharedbooks@gmail.com.
+
 
 Cheers!
 
 Scott
+
+### The Library ###
+[Book list 12-12-2016](Books\Book list (google sheet version)12-12-16.pdf)
