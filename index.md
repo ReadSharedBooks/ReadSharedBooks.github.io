@@ -1,4 +1,4 @@
-## About this Project
+## Let's Share Books!
 
 
 The goal of this project is simple. It's to promote the sharing of books. Think of it as a decentralized library, where you can both lend and borrow books from other folks in the community. It's like those little tiny libraries that you pass by in people's yards, except this one has many, many more books.
