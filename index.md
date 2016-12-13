@@ -15,14 +15,14 @@ If you ever want to add more books to the list, send the list as a spreadsheet (
 
 I'll do my best to update as often as I can, and each time the list is updated, I'll post the date so you can know if the changes you're expecting are reflected in the latest list.
 
-Until I figure out a better system, or can pay someone to do it properly, the way to find books will simply be to download the PDF and use the Control 'f' command to search the document for whatever it is you want.
+Until I figure out a better system, or can pay someone to do it properly, the way to find books will simply be to download the PDF and use the Control 'f' command to search the document for whatever it is you want. Perhaps I'll get around to getting things into alphabetical order later.
 
 I'll try to break books up into some categories, but don't expect too much other than:
 
--Fiction
--Non-fiction
--Reference (textbooks, for example)
--Cooking
+* Fiction
+* Non-fiction
+* Reference (textbooks, for example)
+* Cooking
 
 Please share this with anyone (in Cache Valley) you think would be interested. I'll keep a running tally of the total books available, and the number of users as well.
 
