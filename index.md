@@ -11,7 +11,7 @@ Forever.
 I won't put the borrowers name on the book list, that information will not be public. If, however problems with delayed returns and/or the quality of returns is a problem, that information will be made public in order to ensure that all books continue to be returned promptly and in good condition.
 
 
-If you ever want to add more books to the list, send the list as a spreadsheet (both google sheets or excel work best) to <readsharedbooks@gmail.com> and I'll update the list.
+If you ever want to add more books to the list, send the list as a spreadsheet (both google sheets or excel work best) to <readsharedbooks@gmail.com> and I'll update the list. If you want to add a book, and it's already on the list- Do it anyway! That way if one copy is being borrowed there's still another one out there for someone else.
 
 I'll do my best to update as often as I can, and each time the list is updated, I'll post the date so you can know if the changes you're expecting are reflected in the latest list.
 
