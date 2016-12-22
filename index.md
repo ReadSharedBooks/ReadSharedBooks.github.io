@@ -38,7 +38,7 @@ Cheers!
 Scott
 
 ### The Library ###
-**[Book list 12-13-2016](Books\Master_book_list 12-22-2016.pdf)**
+**[Book list 12-22-2016](Books\Master_book_list 12-22-2016.pdf)**
 
 
 Some specs through time:
